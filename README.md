@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/dexuby/seaweedfs-client.svg)](https://jitpack.io/#dexuby/seaweedfs-client)
+
 Example usage:
 ```java
 final SeaweedfsClient client = new SeaweedfsClient("http://localhost:9333");
